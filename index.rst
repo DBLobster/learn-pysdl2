@@ -39,7 +39,7 @@ T_T).
 * :ref:`search`
 
 
-制作日期: |today|
+构建日期: |today|
 
 
 .. _PySDL2: https://bitbucket.org/marcusva/py-sdl2
