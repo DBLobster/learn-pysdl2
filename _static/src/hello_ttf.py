@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sdl2.ext
 
 RESOURCES = sdl2.ext.Resources(__file__, 'res')
