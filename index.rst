@@ -23,9 +23,9 @@ T_T).
 
   intro.rst
   install.rst
-  hello.rst
-  hello_ttf.rst
-  pysdl2_c.rst
+  01_hello.rst
+  02_hello_ttf.rst
+  99_pysdl2_c.rst
   copyright.rst
   faq.rst
   news.rst
