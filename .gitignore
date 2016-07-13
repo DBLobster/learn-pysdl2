@@ -1,4 +1,4 @@
-sdl2/
+_static/src/sdl2/
 
 # res
 _static/src/res/fonts/unifont-8.0.01.ttf
