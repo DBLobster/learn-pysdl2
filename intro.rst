@@ -29,7 +29,7 @@ PySDL2_ 对于本人也是边学边用, 如果本文有任何疏漏和错误, �
 
 .. note::
 
-  本文使用 reStructuredText_ 编写, 代码托管在 http://example.com/.
+  本文使用 reStructuredText_ 编写, 代码托管在 https://github.com/DBLobster/learn-pysdl2 .
   本文有任何疏漏和错误请在此反馈, 对本文有任何意见同样请在此反馈.
 
 .. note::
