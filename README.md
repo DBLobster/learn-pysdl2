@@ -8,5 +8,5 @@ PySDL2 教程
 
 构建:
 
-        pip3 install sphinx
-        make html
+    pip3 install sphinx
+    make html
