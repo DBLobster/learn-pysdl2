@@ -1,5 +1,8 @@
-第一课 Hello World!
+.. _hello-label:
+
+第一节 Hello World!
 ===================
+
 不能免俗, 上来先 Hello World! 吧.
 
 

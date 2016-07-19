@@ -25,6 +25,7 @@ T_T).
   install.rst
   01_hello.rst
   02_hello_ttf.rst
+  99_hello_hard.rst
   99_pysdl2_c.rst
   copyright.rst
   faq.rst

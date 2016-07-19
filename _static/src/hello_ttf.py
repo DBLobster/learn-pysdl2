@@ -18,10 +18,8 @@ fm = sdl2.ext.FontManager(TTF, color=black, bg_color=white)
 window = sdl2.ext.Window('Hello World!', size=(320, 240))
 window.show()
 
-factory = sdl2.ext.SpriteFactory(sdl2.ext.SOFTWARE)
-
-#renderer = sdl2.ext.Renderer(window)
-#factory = sdl2.ext.SpriteFactory(sdl2.ext.TEXTURE, renderer=renderer)
+renderer = sdl2.ext.Renderer(window)
+factory = sdl2.ext.SpriteFactory(sdl2.ext.TEXTURE, renderer=renderer)
 
 sprite = factory.from_image(RESOURCES.get_path('hello.png'))
 sprite_eng = factory.from_text('Hello World!', fontmanager=fm)
